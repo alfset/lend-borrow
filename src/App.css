@@ -18,18 +18,12 @@ img {
   margin-top: 60px;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 100px) {
   img {
-    width: 100px;
-    height: 250px;
+    width: 75px;
+    height: 75px;
     margin-top: 1px;
   }
-}
-
-.copyright {
-  margin-top: 50px;
-  font-size: 10px;
-  color: #fff;
 }
 
 a {
